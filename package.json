@@ -1,0 +1,19 @@
+{
+  "name": "20_day_of_coding_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
